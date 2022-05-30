@@ -1,2 +1,2 @@
-# tomtiv-me.github.io
-my blog
+# tomtiv.github.io
+My Blog
