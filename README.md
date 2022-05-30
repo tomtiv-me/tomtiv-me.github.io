@@ -1,2 +1,2 @@
 # tomtiv.github.io
-My Blog
+The blog of blogs
